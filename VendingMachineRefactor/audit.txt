@@ -1,0 +1,64 @@
+
+ Audit Logger***  2018-01-31T22:03:14.767 : completePurchase: 10 ID 01| Name Pepsi| ItemCost 1.00| Item Inventory 36  ***
+
+ Audit Logger***  2018-01-31T22:06:20.385 : inventoryAvailibility: 10 ID 03| Name RootBeer| ItemCost 1.50| Item Inventory 2  ***
+
+ Audit Logger***  2018-01-31T22:06:20.397 : completePurchase: 10 ID 03| Name RootBeer| ItemCost 1.50| Item Inventory 1  ***
+
+ Audit Logger***  2018-01-31T22:06:22.980 : inventoryAvailibility: 8.50 ID 03| Name RootBeer| ItemCost 1.50| Item Inventory 1  ***
+
+ Audit Logger***  2018-01-31T22:06:22.981 : completePurchase: 8.50 ID 03| Name RootBeer| ItemCost 1.50| Item Inventory 0  ***
+
+ Audit Logger***  2018-01-31T22:06:24.083 : inventoryAvailibility: 7.00 ID 03| Name RootBeer| ItemCost 1.50| Item Inventory 0  ***
+
+ Audit Logger***  2018-01-31T22:06:35.016 : inventoryAvailibility: 0 ID 08| Name Water| ItemCost 1.99| Item Inventory 29  ***
+
+ Audit Logger***  2018-01-31T22:33:50.625 : ItemList:   ***
+
+ Audit Logger***  2018-01-31T22:33:55.129 : ItemList:   ***
+
+ Audit Logger***  2018-01-31T22:33:59.545 : inventoryAvailibility: 100 ID 08| Name Water| ItemCost 1.99| Item Inventory 29  ***
+
+ Audit Logger***  2018-01-31T22:33:59.547 : completePurchase: 100 ID 08| Name Water| ItemCost 1.99| Item Inventory 28  ***
+
+ Audit Logger***  2018-01-31T22:33:59.552 : ItemList:   ***
+
+ Audit Logger***  2018-01-31T22:45:09.585 : ItemList:   ***
+
+ Audit Logger***  2018-01-31T22:45:14.733 : ItemList:   ***
+
+ Audit Logger***  2018-01-31T22:45:17.140 : getItem: 08  ***
+
+ Audit Logger***  2018-01-31T22:45:17.141 : inventoryAvailibility: 10 ID 08| Name Water| ItemCost 1.99| Item Inventory 28  ***
+
+ Audit Logger***  2018-01-31T22:45:17.146 : completePurchase: 10 ID 08| Name Water| ItemCost 1.99| Item Inventory 27  ***
+
+ Audit Logger***  2018-01-31T22:45:17.148 : ItemList:   ***
+
+ Audit Logger***  2018-02-01T00:14:25.155 : ItemList:   ***
+
+ Audit Logger***  2018-02-01T00:14:29.959 : ItemList:   ***
+
+ Audit Logger***  2018-02-01T00:14:34.176 : getItem: 06  ***
+
+ Audit Logger***  2018-02-01T00:14:34.176 : inventoryAvailibility: 10 ID 06| Name OrangeJuice| ItemCost 2.75| Item Inventory 11  ***
+
+ Audit Logger***  2018-02-01T00:14:34.178 : completePurchase: 10 ID 06| Name OrangeJuice| ItemCost 2.75| Item Inventory 10  ***
+
+ Audit Logger***  2018-02-01T00:14:34.184 : ItemList:   ***
+
+ Audit Logger***  2018-02-01T11:03:49.144 : ItemList:   ***
+
+ Audit Logger***  2018-02-01T11:03:54.745 : ItemList:   ***
+
+ Audit Logger***  2018-02-01T14:25:29.133 : ItemList:   ***
+
+ Audit Logger***  2018-02-01T14:25:35.633 : ItemList:   ***
+
+ Audit Logger***  2018-02-01T14:26:55.442 : ItemList:   ***
+
+ Audit Logger***  2018-02-01T14:26:59.276 : ItemList:   ***
+
+ Audit Logger***  2018-02-01T14:27:00.880 : ItemList:   ***
+
+ Audit Logger***  2018-02-01T14:27:11.103 : ItemList:   ***
